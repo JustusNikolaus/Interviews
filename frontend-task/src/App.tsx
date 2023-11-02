@@ -2,6 +2,14 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+/**
+ * The task at hand is to build a simple dynamic dashboard that lists "Assets." 
+ * These assets have different statuses like "Available," "Allocated," and "Under Maintenance." 
+ * Your challenge is to display these assets and provide a filtering mechanism to show assets based on their statuses.
+ * 
+ */
+
+
 function App() {
   return (
     <div className="App">
